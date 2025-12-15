@@ -17,9 +17,9 @@ export const SOCIALS = [
   },
   {
     name: "Instagram",
-    href: "https://instagrm.com/dannygvrcia",
+    href: "https://instagram.com/dannygvrcia",
     linkTitle: `${SITE.title} on Instagram`,
-    icon: "instagram",
+    icon: "Instagram",
     active: true,
   },
   {
