@@ -36,7 +36,7 @@ export const SITE: Site = {
   profile: "https://steipete.me/about",
   desc: "AI-powered tools from Swift roots to web frontiers. Every commit lands on GitHub for you to fork & remix.",
   title: "Peter Steinberger",
-  ogImage: "peter-avatar.jpg",
+  ogImage: "pfp-danny-uncropped.jpeg",
   lightAndDarkMode: true,
   postPerIndex: 10,
   postPerPage: 10,
