@@ -33,7 +33,7 @@ interface Site {
 export const SITE: Site = {
   website: "https://dannygarcia.net/",
   author: "Danny Garcia",
-  profile: "https://steipete.me/about",
+  profile: "https://dannygarcia.net/about",
   desc: "20-year-old Cyber Security Enthusiast and Professional Procrastinator.",
   title: "Danny Garcia",
   ogImage: "pfp-danny-uncropped.jpeg",
@@ -79,7 +79,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: "Twitter",
   },
   {
-    href: "https://bsky.app/profile/steipete.me",
+    href: "https://instagram.com/dannygvrcia",
     label: "Instagram",
   },
   {
