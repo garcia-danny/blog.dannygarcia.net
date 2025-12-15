@@ -19,7 +19,7 @@ export const SOCIALS = [
     name: "Instagram",
     href: "https://instagram.com/dannygvrcia",
     linkTitle: `${SITE.title} on Instagram`,
-    icon: "Instagram",
+    icon: "instagram",
     active: true,
   },
   {
