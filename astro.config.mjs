@@ -12,7 +12,7 @@ import AstroPWA from "@vite-pwa/astro";
 
 // https://astro.build/config
 export default defineConfig({
-  site: SITE.website,
+  site: "https://dannygarcia.net/",
   trailingSlash: "never",
   markdown: {
     remarkPlugins: [
@@ -42,7 +42,7 @@ export default defineConfig({
       },
       serialize: (item) => {
         // Remove trailing slash from URL if present (except for root)
-        if (item.url.endsWith('/') && item.url !== SITE.website + '/') {
+        if (item.url.endsWith('/') && item.url !== 'https://dannygarcia.net/' + '/') {
           item.url = item.url.slice(0, -1);
         }
         
@@ -53,7 +53,7 @@ export default defineConfig({
         item.priority = 0.5;
         
         // Homepage - highest priority, frequent updates
-        if (url === SITE.website || url === SITE.website + '/') {
+        if (url === 'https://dannygarcia.net/' || url === 'https://dannygarcia.net/' + '/') {
           item.priority = 1.0;
           item.changefreq = 'daily';
           item.lastmod = new Date().toISOString();
