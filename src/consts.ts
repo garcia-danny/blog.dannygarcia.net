@@ -92,7 +92,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
 export const ICON_MAP: Record<string, string> = {
   GitHub: "github",
   Twitter: "twitter",
-  Instagram: "Instagram",
+  Instagram: "instagram",
   RSS: "rss",
   Email: "mail",
 };
