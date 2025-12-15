@@ -16,10 +16,10 @@ export const SOCIALS = [
     active: true,
   },
   {
-    name: "BlueSky",
-    href: "https://bsky.app/profile/steipete.me",
-    linkTitle: `${SITE.title} on BlueSky`,
-    icon: "bluesky",
+    name: "Instagram",
+    href: "https://instagrm.com/dannygvrcia",
+    linkTitle: `${SITE.title} on Instagram`,
+    icon: "Instagram",
     active: true,
   },
   {
