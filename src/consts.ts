@@ -80,7 +80,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
   },
   {
     href: "https://bsky.app/profile/steipete.me",
-    label: "BlueSky",
+    label: "Instagram",
   },
   {
     href: "/rss.xml",
@@ -92,7 +92,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
 export const ICON_MAP: Record<string, string> = {
   GitHub: "github",
   Twitter: "twitter",
-  BlueSky: "bsky",
+  Instagram: "instagram",
   RSS: "rss",
   Email: "mail",
 };
