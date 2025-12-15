@@ -13,7 +13,7 @@ export const SOCIALS = [
     href: "https://x.com/steipete",
     linkTitle: `${SITE.title} on X`,
     icon: "twitter",
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
@@ -24,14 +24,14 @@ export const SOCIALS = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/steipete/",
+    href: "https://www.linkedin.com/in/garcia-danny/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: "linkedin",
     active: true,
   },
   {
     name: "Mail",
-    href: "mailto:peter@steipete.me",
+    href: "mailto:danny@dannygarcia.net",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: "mail",
     active: true,
