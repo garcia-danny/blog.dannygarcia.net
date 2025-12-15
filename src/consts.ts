@@ -34,7 +34,7 @@ export const SITE: Site = {
   website: "https://dannygarcia.net/",
   author: "Danny Garcia",
   profile: "https://steipete.me/about",
-  desc: "AI-powered tools from Swift roots to web frontiers. Every commit lands on GitHub for you to fork & remix.",
+  desc: "20-year-old Cyber Security Enthusiast and Professional Procrastinator.",
   title: "Danny Garcia",
   ogImage: "pfp-danny-uncropped.jpeg",
   lightAndDarkMode: true,
@@ -71,7 +71,7 @@ export const NAV_LINKS: SocialLink[] = [
 // Social media links
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    href: "https://github.com/steipete",
+    href: "https://github.com/garcia-danny",
     label: "GitHub",
   },
   {
