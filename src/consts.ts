@@ -31,20 +31,20 @@ interface Site {
 
 // Site configuration
 export const SITE: Site = {
-  website: "https://steipete.me/",
-  author: "Peter Steinberger",
+  website: "https://dannygarcia.net/",
+  author: "Danny Garcia",
   profile: "https://steipete.me/about",
   desc: "AI-powered tools from Swift roots to web frontiers. Every commit lands on GitHub for you to fork & remix.",
-  title: "Peter Steinberger",
+  title: "Danny Garcia",
   ogImage: "pfp-danny-uncropped.jpeg",
   lightAndDarkMode: true,
-  postPerIndex: 10,
-  postPerPage: 10,
+  postPerIndex: 3,
+  postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000,
   showArchives: false,
   showBackButton: false,
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit on GitHub",
     url: "https://github.com/steipete/steipete.me/edit/main/",
   },
