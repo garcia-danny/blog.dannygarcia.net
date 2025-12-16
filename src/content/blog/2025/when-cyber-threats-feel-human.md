@@ -30,7 +30,7 @@ Based on the survey, finding show that employees underestimate the risks to prot
 
 Cybercrime has grown exponentially with the usage of artificial intelligence (AI), and even raises the chances of an unskilled hacker to steal account information. Although given the downside of AI, it does also have its upsides in productivity, and growth. 
 
-*So, how can we protect ourselves against ai-driven attacks, or even cybercrime in general?*
+**So, how can we protect ourselves against ai-driven attacks, or even cybercrime in general?**
 
 ### Use phishing-resistant authentication
 Artificial Intelligence makes phishing so much more convincing, and passwords can only do so much. 
