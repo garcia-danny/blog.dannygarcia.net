@@ -44,9 +44,9 @@ export const SITE: Site = {
   showArchives: false,
   showBackButton: false,
   editPost: {
-    enabled: false,
+    enabled: true,
     text: "Edit on GitHub",
-    url: "https://github.com/steipete/steipete.me/edit/main/",
+    url: "https://github.com/garcia-danny/dannygarcia.net/edit/main/",
   },
   dynamicOgImage: true,
   lang: "en",
