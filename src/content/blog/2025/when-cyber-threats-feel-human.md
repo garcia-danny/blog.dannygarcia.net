@@ -56,7 +56,7 @@ And my personal favorite, **USE A PASSWORD MANAGER!!**
 
 - Generate and store unique passwords for every site, making it harder for AI or people to guess your password. 
 - Or do yourself a favor and move away from password to passkeys, where supported. 
-- Watch for breach alerts from your manager or you can also check [HaveIbeenPawned.com](https://haveibeenpawned.com) and look for yourself! 
+- Watch for breach alerts from your manager or you can also check [HaveIBeenPwned.com](https://haveibeenpwned.com) and look for yourself! 
 
 Reused passwords are still one of the biggest risks in today’s digital world. If an AI can guess your writing style, and use public available data, imagine how easy it is to get your password.
 
