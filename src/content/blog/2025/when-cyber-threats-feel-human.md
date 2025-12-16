@@ -8,8 +8,7 @@ heroImage: /assets/img/2025/when-cyber-threats-feel-human/when-cyber-threats-fee
 
 Recently, I had the opportunity to attend a webinar by Yubico called `When Cyber Threats Feel Human: The 2026 Identity Wake-Up Call` which explored the evolving nature of AI-based threats and how phishing attacks are becoming more convincing.
 
-## So, who is Yubico, and what the heck is a 
-YubiKey?
+## So, who is Yubico, and what the heck is a YubiKey?
 
 Yubico is a cybersecurity company that invented the YubiKey, **a hardware-based authentication key, to prevent phishing attacks and account takeovers**.
 
