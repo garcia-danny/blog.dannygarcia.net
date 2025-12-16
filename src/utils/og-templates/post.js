@@ -231,7 +231,7 @@ export default async (post) => {
       width: 1200,
       height: 630,
       embedFont: true,
-      fonts: await loadGoogleFonts(post.data.title + post.data.author + "steipete.me" + "by"),
+      fonts: await loadGoogleFonts(post.data.title + post.data.author + "dannygarcia.net" + "by"),
     }
   );
 };
