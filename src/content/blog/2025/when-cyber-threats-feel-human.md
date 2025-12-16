@@ -16,4 +16,10 @@ When a website offers 2FA, it usually sends you a one-time password in email, or
 
 ## Yubico’s 2025 Survey 
 
-Now that we’ve gotten that out of the way, let’s talk about the webinar. Yubico recently ran a survey across nine countries, surveying over 18,000 employed adults. 
+Now that we’ve gotten that out of the way, let’s talk about the webinar. Yubico recently ran a survey across nine countries, surveying over 18,000 employed adults.
+
+The survey revealed the following:
+- 74% of employees admit that company-offered security options are not very secure.
+- 40% of employees report never receiving cybersecurity training.
+- 62% of employees still rely on a username and password.
+- 41% place their trust in vulnerable SMS-based authentication.
