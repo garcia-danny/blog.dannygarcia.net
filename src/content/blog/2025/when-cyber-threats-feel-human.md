@@ -32,19 +32,19 @@ Cybercrime has grown exponentially with the usage of artificial intelligence (AI
 
 ## So, how can we protect ourselves against ai-driven attacks, or even cybercrime in general? 
 
-# Use phishing-resistant authentication
+### Use phishing-resistant authentication
 Artificial Intelligence makes phishing so much more convincing, and passwords can only do so much. 
 - Use Hardware keys (Yubikeys!) 
 - Avoid SMS-based MFA (it’s vulnerable to SIM-swapping and interception)
 - Prefer app-based MFA or passkeys tied to your device
 
-# Assume everything can be faked
+### Assume everything can be faked
 AI can convincingly mimic emails, voices, faces, and even your own writing style! 
 - Verify urgent requests through a second channel (call, in-person, known contact) 
 - Be skeptical of messages that create pressure or urgent
 - Don’t trust emails or messages just because they “sound right”
 
-# Reduce your digital footprint
+### Reduce your digital footprint
 AI thrives on public available data, so lock down your information! 
 - Remove your data from data broker sites (DeleteMe, Incogni, etc)
 - Lock down social media privacy settings
