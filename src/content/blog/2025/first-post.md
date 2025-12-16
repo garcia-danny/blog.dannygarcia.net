@@ -1,6 +1,6 @@
 ---
 title: "My First Ever Blog Post!"
-description: "This is my first evr blog post - a quick intro and whats in store."
+description: "This is my first ever blog post - a quick intro and whats in store."
 pubDatetime: 2025-12-15T11:30:00-08:00
 tags: ["personal"]
 ---
