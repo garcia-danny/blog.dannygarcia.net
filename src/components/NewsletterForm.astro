@@ -9,12 +9,12 @@ const { variant = "default" } = Astro.props;
 <div class={variant === 'default' ? 'newsletter-box bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 rounded-lg p-6 my-8' : 'newsletter-compact mt-6'}>
   {variant === 'default' && (
     <p class="text-sm text-gray-600 dark:text-gray-400 mb-4">
-      New posts, shipping stories, and nerdy links straight to your inbox.
+      New writing, updates, and nerdy links straight to your inbox.
     </p>
   )}
   
   <form
-    action="https://buttondown.com/api/emails/embed-subscribe/steipete"
+    action="https://buttondown.com/api/emails/embed-subscribe/dannygarcia"
     method="post"
     target="_blank"
     class="flex flex-col sm:flex-row gap-3"
