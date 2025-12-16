@@ -36,7 +36,7 @@ export const SITE: Site = {
   profile: "https://dannygarcia.net/about",
   desc: "20-year-old Cyber Security Enthusiast and Professional Procrastinator.",
   title: "Danny Garcia",
-  ogImage: "pfp-danny-uncropped.jpeg",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerIndex: 3,
   postPerPage: 3,
