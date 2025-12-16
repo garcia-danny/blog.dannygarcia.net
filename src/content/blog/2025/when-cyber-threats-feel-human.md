@@ -3,6 +3,7 @@ title: "My Review: When Cyber Threats Feel Human"
 description: "When Cyber Threats Feel Human: The 2026 Identity Wake-Up Call"
 pubDatetime: 2025-12-16T12:30:00-08:00
 tags: ["CyberSecurity", "AI", "Yubico", "Yubikey"]
+heroImage: /assets/img/2025/when-cyber-threats-feel-human/when-cyber-threats-feel-human.png
 ---
 
 Recently, I had the opportunity to attend a webinar by Yubico called `When Cyber Threats Feel Human: The 2026 Identity Wake-Up Call` which explored the evolving nature of AI-based threats and how phishing attacks are becoming more convincing.
