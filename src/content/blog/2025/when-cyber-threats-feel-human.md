@@ -64,5 +64,6 @@ Overall though, make sure to stay safe out in the digital world, lock down your 
 
 Thank you to Yubico for the webinar, feel free to checkout the entire webinar and survey listed below. 
 
+## Resources
 
-
+[Yubico's 2025 Global State of Authentication Survey](https://www.yubico.com/blog/2025-global-state-of-authentication-survey-a-world-of-difference-in-cybersecurity-habits/)
