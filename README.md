@@ -29,7 +29,7 @@ I enjoy building things, exploring security, and writing about technology in a w
 ├── vercel.json           # Vercel deployment and CSP configuration
 ├── package.json          # Project dependencies and scripts
 ├── tailwind.config.mjs   # Tailwind CSS configuration
-└── LICENSE               # License (MIT) ```
+└── LICENSE               # License (MIT)
 ‎```‎
 
 ## Commands
