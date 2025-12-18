@@ -30,6 +30,7 @@ I enjoy building things, exploring security, and writing about technology in a w
 ├── package.json          # Project dependencies and scripts
 ├── tailwind.config.mjs   # Tailwind CSS configuration
 └── LICENSE               # License (MIT) ```
+‎```‎
 
 ## Commands
 
