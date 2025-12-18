@@ -13,24 +13,24 @@ I enjoy building things, exploring security, and writing about technology in a w
 
 ```text
 ├── public/               # Static assets (images, fonts, favicon)
-│   ├── assets/           # Images for blog posts
-│   └── fonts/            # Web fonts
+│   ├── assets/          # Images for blog posts
+│   └── fonts/           # Web fonts
 ├── src/
-│   ├── assets/           # Icons and images used in components
-│   ├── components/       # Reusable UI components
-│   │   └── ui/           # React components
-│   ├── content/          # Content collections
-│   │   └── blog/         # Blog posts in Markdown format (organized by year)
-│   ├── layouts/          # Page layouts and templates
-│   ├── pages/            # Routes and pages
-│   ├── styles/           # Global styles and CSS
-│   └── utils/            # Utility functions
-├── astro.config.mjs      # Astro configuration
-├── vercel.json           # Vercel deployment and CSP configuration
-├── package.json          # Project dependencies and scripts
-├── tailwind.config.mjs   # Tailwind CSS configuration
-└── LICENSE               # License (MIT)
-‎```‎
+│   ├── assets/          # Icons and images used in components
+│   ├── components/      # Reusable UI components
+│   │   └── ui/          # React components
+│   ├── content/         # Content collections
+│   │   └── blog/        # Blog posts in Markdown format (organized by year)
+│   ├── layouts/         # Page layouts and templates
+│   ├── pages/           # Routes and pages
+│   ├── styles/          # Global styles and CSS
+│   └── utils/           # Utility functions
+├── astro.config.mjs     # Astro configuration
+├── vercel.json          # Vercel deployment and CSP configuration
+├── package.json         # Project dependencies and scripts
+├── tailwind.config.mjs  # Tailwind CSS configuration
+└── LICENSE              # Dual license (CC BY 4.0 + MIT)
+```
 
 ## Commands
 
