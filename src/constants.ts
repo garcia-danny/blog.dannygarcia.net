@@ -31,7 +31,7 @@ export const SOCIALS = [
   },
   {
     name: "Mail",
-    href: "mailto:danny@dannygarcia.net",
+    href: "mailto:inquiries@dannygarcia.net",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: "mail",
     active: true,
