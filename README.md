@@ -5,7 +5,7 @@ This repository contains the source code for my personal website, built with [As
 ## About
 
 Hi, I’m Danny Garcia — a 20-year-old developer and cybersecurity enthusiast.  
-This website is my personal website where I share blogs, projects, or other stuff I'm working on.
+This website is my personal website where I share blogs, projects, or other stuff I'm working on!
 
 ## Project Structure
 
