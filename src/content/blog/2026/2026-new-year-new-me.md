@@ -1,5 +1,5 @@
 ---
-title: "2026: New Year, New Me."
+title: "2026: New Year, New Me"
 description: "A short blog about my 2025 goals I achieved, and new 2026 goals."
 pubDatetime: 2026-01-02T09:30:00-08:00
 tags: ["personal"]
