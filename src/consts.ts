@@ -79,10 +79,6 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: "Twitter",
   },
   {
-    href: "https://instagram.com/dannygvrcia",
-    label: "Instagram",
-  },
-  {
     href: "/rss.xml",
     label: "RSS",
   },
