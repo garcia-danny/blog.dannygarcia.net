@@ -34,7 +34,7 @@ export const SITE: Site = {
   website: "https://dannygarcia.net/",
   author: "Danny Garcia",
   profile: "https://dannygarcia.net/about",
-  desc: "20-year-old Cyber Security Enthusiast and Professional Procrastinator.",
+  desc: "21-year-old Cyber Security Enthusiast",
   title: "Danny Garcia",
   ogImage: "",
   lightAndDarkMode: true,
