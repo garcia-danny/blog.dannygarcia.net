@@ -16,13 +16,6 @@ export const SOCIALS = [
     active: false,
   },
   {
-    name: "Instagram",
-    href: "https://instagram.com/dannygvrcia",
-    linkTitle: `${SITE.title} on Instagram`,
-    icon: "instagram",
-    active: true,
-  },
-  {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/garcia-danny/",
     linkTitle: `${SITE.title} on LinkedIn`,
@@ -44,12 +37,6 @@ export const SHARE_LINKS = [
     href: "https://x.com/intent/post?url=",
     linkTitle: `Share this post on X`,
     icon: "twitter",
-  },
-  {
-    name: "BlueSky",
-    href: "https://bsky.app/intent/compose?text=",
-    linkTitle: `Share this post on BlueSky`,
-    icon: "bluesky",
   },
   {
     name: "LinkedIn",
