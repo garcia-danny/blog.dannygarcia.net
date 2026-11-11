@@ -1,7 +1,7 @@
 ---
 title: "What I'm Working Toward Right Now"
 description: "My personal goals, education, career ambitions, and what I wanna to accomplish."
-pubDatetime: 2026-10-09T19:00:00-07:00
+pubDatetime: 2026-11-11T19:00:00-07:00
 tags: ["personal","reflections"]
 ---
 ## What I'm Working Towards Right Now
@@ -21,9 +21,9 @@ I also started experimenting with Linux, installing operating systems like [Ubun
 Looking back, a lot of my interest in technology came from simply being curious and wanting to figure things out on my own. What started as wanting my own domain and website gradually turned into an interest in computers, software, and IT in general. Now that I've started college, I'm looking forward to building on that foundation, learning new things, and seeing where my degree in Computer Science takes me.
 
 There are still plenty of things I'd like to learn and accomplish. Some of the things on my mind right now are:
-- [Continue working toward my Associates in Computer Science]
-- [Keep exploring new tools and software] 
-- [Keep learning about computers and different linux operating systems]
+- Continue working toward my Associates in Computer Science
+- Keep exploring new tools and software 
+- Keep learning about computers and different linux operating systems
 
 ### Career Goals
 
