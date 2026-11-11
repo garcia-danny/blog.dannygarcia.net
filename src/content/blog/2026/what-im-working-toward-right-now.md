@@ -1,7 +1,7 @@
 ---
 title: "What I'm Working Toward Right Now"
 description: "My personal goals, education, career ambitions, and what I wanna to accomplish."
-pubDatetime: 2026-11-11T19:00:00-07:00
+pubDatetime: 2026-11-10T19:00:00-07:00
 tags: ["personal","reflections"]
 ---
 ## What I'm Working Towards Right Now
