@@ -12,7 +12,7 @@ import AstroPWA from "@vite-pwa/astro";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://dannygarcia.net/",
+  site: "https://blog.dannygarcia.net/",
   trailingSlash: "never",
   markdown: {
     remarkPlugins: [
