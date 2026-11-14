@@ -67,18 +67,12 @@ And my personal favorite, **USE A PASSWORD MANAGER!!**
 
 Reused passwords are still one of the biggest risks in today’s digital world. If an AI can guess your writing style, and use public available data, imagine how easy it is to get your password.
 
-Overall though, make sure to stay safe out in the digital world, lock down your information and keep pushing. 
-
-Thank you to Yubico for the webinar, feel free to checkout the entire webinar and survey listed below.
-
 ## Final Words
 The fact that I was prompted to think about the importance of cyber-security made me appreciate the value of holding more discussions on the subject, particularly since technology keeps developing.
 
 One of the most essential things which I got from the webinar was the realization that cyber-security is not only related to the level of development of technologies but to our awareness of the threats as well.
 
-Even if you are not a specialist working in the field of cyber-security, you can make some efforts to ensure that your information will be safe when you use internet.
-
-The fact that I decided to discuss the issue once again is that I strongly believe that cybersecurity should be a concern of everybody. Since I am interested in the field of cyber-security and technology in general, I believe it would be good to discuss this matter with others.
+Even if you are not a specialist working in the field of cyber-security, **you can make some efforts to ensure that your information will be safe when you use internet**.
 
 Thank you to Yubico for organizing the webinar. You can find the survey below.
 
