@@ -6,7 +6,7 @@ tags: ["CyberSecurity", "AI", "Yubico", "Yubikey"]
 heroImage: /assets/img/2025/when-cyber-threats-feel-human/when-cyber-threats-feel-human.png
 ---
 
-IRecently, I was reminded of a cybersecurity webinar I attended earlier this year, and it got me thinking about how important it is to bring more awareness to the threats we face in today's digital world.
+Recently, I was reminded of a cybersecurity webinar I attended earlier this year, and it got me thinking about how important it is to bring more awareness to the threats we face in today's digital world.
 
 In early 2026, I had the opportunity to attend a webinar by Yubico called `When Cyber Threats Feel Human: The 2026 Identity Wake-Up Call`, which explored the evolving nature of AI-based threats and how phishing attacks are becoming more convincing.
 
